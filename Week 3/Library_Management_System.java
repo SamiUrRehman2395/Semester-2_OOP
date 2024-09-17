@@ -95,8 +95,11 @@ public class Library_Management_System {
         Book book2 = new Book(book1);
 
         // Modify the copy's author details
-        book2.getAuthor().setName("George R.R. Martin");
-        book2.getAuthor().setEmail("george.martin@yahoomail.com");
+        book2.getAuthor().setName("Mirza Asad Ullah Khan Ghalib");
+        book2.getAuthor().setEmail("mirza.ghalib@yahoomail.com");
+
+        book2.setTitle("Deewan-e-Ghalib");
+        book2.setGenre("Poetry");
 
   
         System.out.println("\nModified Copy:");
