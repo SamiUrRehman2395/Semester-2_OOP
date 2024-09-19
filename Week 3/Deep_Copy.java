@@ -195,6 +195,15 @@ public class Deep_Copy{
           s1.display();
 
 
+
+
+          System.out.println("___________________________________");
+          System.out.println("Address of Outer Object, Student");
+          System.out.println("___________________________________");
+
+          System.out.println(s1);
+          System.out.println(s2);
+
        
 
          // address of course will be diffrent because, it is a deep copy
@@ -207,6 +216,8 @@ public class Deep_Copy{
 
           System.out.println(s2.getCourse());
           System.out.println(s1.getCourse());
+
+          System.out.println("Address is different, because its a deep copy");
 
 
 

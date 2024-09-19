@@ -197,6 +197,20 @@ public class Shallow_Copy{
 
        
 
+          System.out.println("___________________________________");
+          System.out.println("Address of Outer Object, Student");
+          System.out.println("___________________________________");
+
+          System.out.println(s1);
+          System.out.println(s2);
+
+
+
+
+
+
+
+
          // address of course will be same because, it is a shallow copy
          // address of outer object will be different though
 	 // but address of inner object 'course' will be same
@@ -207,6 +221,8 @@ public class Shallow_Copy{
 
           System.out.println(s2.getCourse());
           System.out.println(s1.getCourse());
+
+          System.out.println("Address of inner object is same, because it is a shallow copy");
 
 
 
