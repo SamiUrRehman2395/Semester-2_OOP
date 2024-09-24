@@ -1,4 +1,3 @@
-
 class Event{
     
     private String eventName;
