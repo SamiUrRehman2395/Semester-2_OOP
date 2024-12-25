@@ -1,0 +1,40 @@
+
+Units Consumed: 102
+Meter Category: Commercial
+Bill Amount: 5100.0
+
+
+Units Consumed: 103
+Meter Category: Residential
+Bill Amount: 3090.0
+
+
+Units Consumed: 108
+Meter Category: Commercial
+Bill Amount: 5400.0
+
+
+Units Consumed: 333
+Meter Category: Commercial
+Bill Amount: 19980.0
+
+
+Units Consumed: 45
+Meter Category: Commercial
+Bill Amount: 1800.0
+
+
+Units Consumed: 567
+Meter Category: Residential
+Bill Amount: 28350.0
+
+
+Units Consumed: 12
+Meter Category: Residential
+Bill Amount: 240.0
+
+City: Islamabad
+Units Consumed: 35
+Meter Category: Commercial
+Bill Amount: 1400.0
+
