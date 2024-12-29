@@ -1,4 +1,4 @@
-package com.example.terminal_oop_exam;
+package com.example.oop_final;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
