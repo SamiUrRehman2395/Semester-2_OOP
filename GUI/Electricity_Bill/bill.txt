@@ -38,3 +38,8 @@ Units Consumed: 35
 Meter Category: Commercial
 Bill Amount: 1400.0
 
+City: Multan
+Units Consumed: 20
+Meter Category: Commercial
+Bill Amount: 800.0
+
